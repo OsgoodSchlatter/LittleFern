@@ -84,7 +84,7 @@ export default function About() {
             transition: 'all 0.85s 0.2s ease',
           }}>
             <img
-              src="/public/_front.jpg"
+              src="/_front.jpg"
               alt="Inside Little Fern"
               style={{ width: '100%', height: '540px', objectFit: 'cover', borderRadius: '1px' }}
             />
